@@ -1,0 +1,20 @@
+body{
+    background: rgb(0, 255, 242);
+}
+
+.heading{
+    background: rgb(81, 255, 0);
+    color: black;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.snapshot_button{
+    background: orange;
+    color: black;
+    font-weight: 300;
+}
+
+canvas{
+    border: 1px solid black;
+}
